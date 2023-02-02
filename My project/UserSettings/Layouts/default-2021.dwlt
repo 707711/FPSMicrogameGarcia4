@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 72
+  controlID: 21
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 77
+  controlID: 22
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 78
+  controlID: 23
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1028,25 +1028,25 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 1
+    m_SearchArea: 0
     m_Folders:
-    - Assets/FPS
+    - Assets/FPS/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FPS
+  - Assets/FPS/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\707711\Documents\Unity\GitHub\FPSMicrogameGarcia4\My
     project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e0c30000
-    m_LastClickedID: 50144
-    m_ExpandedIDs: 000000008cc300008ec30000e0c30000805e010000ca9a3b
+    scrollPos: {x: 0, y: 324}
+    m_SelectedIDs: 92c30000
+    m_LastClickedID: 50066
+    m_ExpandedIDs: 000000008cc300008ec3000090c3000092c30000f6c30000f8c3000010c40000e0c80000b0f9020000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1074,7 +1074,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008cc300008ec30000
+    m_ExpandedIDs: 000000008cc300008ec3000090c3000092c30000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1101,7 +1101,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1166,7 +1166,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 65
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -1206,7 +1206,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ccb2fbff7630fcff90aefcff002cfdffe0a9fdff5027feffe4b0ffff96b1ffff2efbffff
+      m_ExpandedIDs: ccc2fdff7474feff026cffff2efbffffcec9000034ca0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1456,9 +1456,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.4999995, y: 1.847, z: 0.20400001}
+    m_Target: {x: 6.1911516, y: -13.996055, z: 0.39509162}
     speed: 2
-    m_Value: {x: 6.4999995, y: 1.847, z: 0.20400001}
+    m_Value: {x: 6.1911516, y: -13.996055, z: 0.39509162}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1505,13 +1505,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12022485, y: 0.51361036, z: -0.07296157, w: 0.8464241}
+    m_Target: {x: 0.31451157, y: 0.61336845, z: -0.2907181, w: 0.6635962}
     speed: 2
-    m_Value: {x: 0.120224446, y: 0.51360863, z: -0.07296132, w: 0.8464213}
+    m_Value: {x: 0.31450915, y: 0.61336374, z: -0.2907159, w: 0.66359115}
   m_Size:
-    m_Target: 14.575426
+    m_Target: 19.83514
     speed: 2
-    m_Value: 13.947776
+    m_Value: 19.83514
   m_Ortho:
     m_Target: 0
     speed: 2
